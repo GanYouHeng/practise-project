@@ -1,5 +1,5 @@
 from django.db import models
-
+ 
 from goods.models import Goods
 from user.models import AXFUser
 
