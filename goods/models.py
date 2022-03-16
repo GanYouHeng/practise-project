@@ -1,5 +1,5 @@
 from django.db import models
-
+ 
 
 class Main(models.Model):
     img = models.CharField(max_length=255)
