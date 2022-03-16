@@ -22,3 +22,4 @@ class UserTokenAuthentication(BaseAuthentication):
         except:
             raise PramsException({'code': 1009, 'msg': '用户没有登录，没有操作权限'})
 
+ 
