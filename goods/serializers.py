@@ -1,5 +1,5 @@
 """__author__ = 干友恒"""
-
+ 
 from rest_framework import serializers
 
 from goods.models import MainWheel, MainNav, MainMustBuy, MainShop, MainShow, FoodType, Goods
